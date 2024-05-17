@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AudioManager</string>
+    <string name="text1_start">Online Playlist</string>
+    <string name="textView_crear">Add Online Audio</string>
+    <string name="textView2_crear">Title</string>
+    <string name="textView3_crear">Video URL</string>
+    <string name="editText1_crear">Enter the audio title</string>
+    <string name="editText2_crear">Enter the audio URL</string>
+    <string name="button_crear">CREATE AUDIO</string>
+    <string name="boton_salir_menu">Exit</string>
+    <string name="textView_reproducir">Audio Player</string>
+    <string name="button_volver_reproducir">Back</string>
+    <string name="toast_crear_mensaje1">All fields are mandatory</string>
+    <string name="toast_crear_mensaje2">Audio saved successfully</string>
+    <string name="toast_reproducir_mensaje">Unable to play audio</string>
+
+
+</resources>

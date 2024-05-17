@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GestionAudios</string>
+    <string name="text1_start">PlayList Online</string>
+    <string name="textView_crear">Añadir Audio Online</string>
+    <string name="textView2_crear">Titulo</string>
+    <string name="textView3_crear">URL Video</string>
+    <string name="editText1_crear">Introduce el titulo del audio</string>
+    <string name="editText2_crear">Introduce la url del audio</string>
+    <string name="button_crear">CREAR AUDIO</string>
+    <string name="boton_salir_menu">Salir</string>
+    <string name="textView_reproducir">Reproductor Audio</string>
+    <string name="button_volver_reproducir">Volver</string>
+    <string name="toast_crear_mensaje1">Todos los campos son obligatorios</string>
+    <string name="toast_crear_mensaje2">Audio guardado correctamente</string>
+    <string name="toast_reproducir_mensaje">Imposible reproducir audio</string>
+</resources>
